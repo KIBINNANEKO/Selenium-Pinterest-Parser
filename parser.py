@@ -69,7 +69,7 @@ def downloading(index, quantity):
 #def naming_moving():
 #    all_downloads = os.listdir(path=r"C:\Users\KIBINNANEKO\Downloads")
 #    downloads = set(all_downloads)
-gi
+
 #    for i in downloads:
 #       name = f"random aestetic pic №{random.randint(0, 10000000)}.jpg"
 #        os.replace(fr"C:\Users\KIBINNANEKO\Downloads\{i}",
